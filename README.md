@@ -1,8 +1,9 @@
 
 ![alttext](logo.png)
-## Sesión 8: Pruebas de Hipótesis
 
-### Ejercicio 1: Evaluar juicios de hipótesis
+# Unidad 4: Gráficos y Correlación - Sesión 2
+
+## Ejercicio 1: Evaluación de hipótesis
 
 A continuación se presenta una serie de enunciados de hipótesis. Usted debe discernir si es posible rechazar la hipótesis nula.
 
@@ -13,7 +14,7 @@ A continuación se presenta una serie de enunciados de hipótesis. Usted debe di
 
 - Un investigador de la Sociedad de Abstemios de Chile sugiere que los hombres tienen mayores niveles de consumo de alcohol que las mujeres, siendo esta diferencia estadísticamente significativa. Esto en base a su estudio realizado con 48 individuos, donde contrastó su puntaje de prueba a una distribución asintóticamente normal. ¿Qué se puede decir sobre su estudio?
 
-### Ejercicio 2: Importe la base de datos utilizada la sesión anterior. 
+## Ejercicio 2: Importe la base de datos utilizada la sesión anterior. 
 * Agrege una serie de variables binarias por cada continente de la variable `region`.
     - _tip_: Utilice `np.where` para ello.
 
@@ -36,9 +37,9 @@ A continuación se presenta una serie de enunciados de hipótesis. Usted debe di
     - Reporte los valores t y p
 
 
-### Ejercicio 4: Implemente una función que grafique los histogramas para ambas muestras.
+## Ejercicio 4: Implemente una función que grafique los histogramas para ambas muestras.
 
 * Genere una función que devuelva un gráfico donde visualice las dos histogramas cuando la variable es 1 y 0, respectivamente.
 * _tips_: Refactorize la función incluyendo el método `hist` de `matplotlib.pyplot`. Incluya los argumentos `alpha` y `label`.
 
-### Ejercicio 5: Para las tres variables de interés acorde a su grupo, analice las diferencias de medias por cada continente, y posteriormente grafique. Concluya con los principales resultados al respecto.
+## Ejercicio 5: Para las tres variables de interés acorde a su grupo, analice las diferencias de medias por cada continente, y posteriormente grafique. Concluya con los principales resultados al respecto.
