@@ -10,7 +10,7 @@ A continuación se presenta una serie de enunciados de hipótesis. Usted debe di
 1. 75 individuos elegidos al azar fueron alcanzados por activistas pro-LGTB que se identificaron como homosexuales, y 75 alcanzados por activistas pro-LGTB que se identificaron como heterosexuales. El objetivo era administrar una encuesta para medir actitudes frente a la adopción homoparental. La organización encargada de procesar los datos obtuvo los siguientes resultados:
     - El 67% de los encuestados por heterosexuales se mostró a favor de la adopción homoparental, mientras que un 72% de los encuestados por activistas que se identifaron como homosexuales se mostraron a favor de la adopción homoparental.
     - Asumiendo que la hipótesis nula es que ambos porcentajes no son estadísticamente diferentes, y la hipótesis alternativa es que existe una diferencia substancial entre ambos.
-    - Con un valor de prueba $p=11.83$ y un puntaje de corte de 2.58, ¿qué se debe concluir?
+    - Con un valor de prueba $z=11.83$ y un puntaje de corte de 2.58, ¿qué se debe concluir?
 
 - Un investigador de la Sociedad de Abstemios de Chile sugiere que los hombres tienen mayores niveles de consumo de alcohol que las mujeres, siendo esta diferencia estadísticamente significativa. Esto en base a su estudio realizado con 48 individuos, donde contrastó su puntaje de prueba a una distribución asintóticamente normal. ¿Qué se puede decir sobre su estudio?
 
